@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "eb731cf40df4edb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac943f8c02101018",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ffd8bbd5046590",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "系统工程图.canvas",
+                "viewState": {
+                  "x": -238.07119021661813,
+                  "y": 2270.6003427777605,
+                  "zoom": -1.1102230246251565e-16
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "系统工程图"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80428efbf2e2f687",
+    "type": "split",
+    "children": [
+      {
+        "id": "801ca01b32a49c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea009b156e8a1cb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2cad7f96abef8050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bb2ba475e5374c19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7d0c798a3377bc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7be55dd443a729b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b334dd642a342e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "系统工程图.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "系统工程图 的反向链接列表"
+            }
+          },
+          {
+            "id": "5886f3b2b51c6ec3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "系统工程图.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "系统工程图 的出链列表"
+            }
+          },
+          {
+            "id": "de4696bafd07c3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5e9e66b1e63fae9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "系统工程图.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "系统工程图 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b9ffd8bbd5046590",
+  "lastOpenFiles": [
+    "SE1_系统工程概述.pdf",
+    "系统工程图.canvas",
+    "欢迎.md"
+  ]
+}
