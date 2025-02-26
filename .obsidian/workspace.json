@@ -15,9 +15,9 @@
               "state": {
                 "file": "系统工程图.canvas",
                 "viewState": {
-                  "x": -238.07119021661813,
-                  "y": 2270.6003427777605,
-                  "zoom": -1.1102230246251565e-16
+                  "x": -1222.3579300174836,
+                  "y": 3302.6122221519695,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a7d0c798a3377bc4",
@@ -173,8 +174,20 @@
   },
   "active": "b9ffd8bbd5046590",
   "lastOpenFiles": [
-    "SE1_系统工程概述.pdf",
+    "知识维或专业维.png",
+    "逻辑维.png",
+    "时间维.png",
+    "霍尔三维结构模型特点.png",
+    "霍尔三维结构图.png",
+    "霍尔三维结构1.png",
+    "chapter2.png",
+    "第二章问题.png",
+    "系统工程方法论主要内容.png",
+    "系统工程方法论概念.png",
+    "Chapter1_00.png",
     "系统工程图.canvas",
+    "asset",
+    "SE1_系统工程概述.pdf",
     "欢迎.md"
   ]
 }
